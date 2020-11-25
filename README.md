@@ -7,5 +7,7 @@ style for categories displayed in blog modules at the top like in a news blog
 
 
 [![divi](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg2.png)](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg2.png)
+[![divi2](https://raw.githubusercontent.com/kevinm9/divi-2/master/capturedd.png)](https://raw.githubusercontent.com/kevinm9/divi-2/master/capturedd.png)
+[![divi2](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg3.png)](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg3.png)
 
-[![divi](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg3.png)](https://raw.githubusercontent.com/kevinm9/divi-2/master/blogggg3.png)
+
